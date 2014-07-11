@@ -2141,6 +2141,15 @@ var commands = exports.commands = {
         		'<b>Catchphrase: </b>While the moonlight is on my side it is only because it cannot exist with out my warming light.</center>');
     },
                         
+   	edward : 'edward',
+   	edward: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc08.deviantart.net/fs70/f/2011/047/8/2/edward_elric___signature_by_link_leob-d39o8rr.gif">' +
+        		'<img src="http://i.imgur.com/FYGa5Ln.png" height="100">' +
+        		'<b>Ace: </b>Skarmory<br />' +
+        		'<b>Catchphrase: </b> </center>');
+    },
+                        
    	norar : 'norar',
    	norar: function(target, room, user) {
         	if (!this.canBroadcast()) return;
@@ -2148,7 +2157,7 @@ var commands = exports.commands = {
         		'<img src="http://i.imgur.com/h1gnB5t.png" height="100">' +
         		'<img src="http://img2.wikia.nocookie.net/__cb20130809103009/rwby/images/2/2d/NoraValkyrieProfilePicture.png" height="100"><br />' +
         		'<b>Ace: </b>Sylveon<br />' +
-        		'<b>Catchphrase: </b>You may think my fairys are cute sorry but thats my ruby.</center>');
+        		'<b>Catchphrase: </b>You may think my fairies are cute sorry but thats my ruby.</center>');
     },
                             
    	lovrina : 'lovrina',
