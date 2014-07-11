@@ -1169,6 +1169,212 @@ var commands = exports.commands = {
 	 * Miscellaneous commands
 	 *********************************************************/
 
+	 crymeariver: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i.imgur.com/zb2j4qq.gif?1"></center>');
+	 },
+
+	 queenofthecastle: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://fc00.deviantart.net/fs70/f/2013/297/1/7/rwby_nora_valkyrie_gif_by_dustiniz117-d6rmph4.gif"></center>');
+	 },
+
+
+	 crushhiswang: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://24.media.tumblr.com/67235f6be8c274a7ce05cb13e8c01c26/tumblr_mnr325ZLN41r0z4fuo2_500.gif"></center>');
+	 },
+
+	 firepunch: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://31.media.tumblr.com/d216a9b45ac33766ac621dd36dce891f/tumblr_mnqp5nUxSj1rj8nzio1_400.gif"></center>');
+	 },
+
+	 lieren: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://24.media.tumblr.com/50061b7f7abd7013806e56090c4bb03e/tumblr_mryhff94TG1sbu5xto6_400.gif"></center>');
+	 },
+
+	 iceblast: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://images1.wikia.nocookie.net/rwby/images/5/59/Tumblr_mik0scCZe41rktwn6o1_500.gif"></center>');
+	 },
+
+	 combatskirts: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://25.media.tumblr.com/b74eb164763dce0487564c3ce21b9318/tumblr_mvk84l1WWN1rq5fzso1_500.gif"></center>');
+	 },
+
+ 	 dexholders: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i.imgur.com/tR9r9.gif"></center>');
+	 },
+
+	 nora: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://25.media.tumblr.com/92f2a57740bc0ad121e0cb87d9836b87/tumblr_msonfrBlq11sgww3vo1_500.gif"></center>');
+	 },
+
+	 rockshurt: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://31.media.tumblr.com/b86cf32cad9df3e1c31e67c678a443a5/tumblr_muli1oVcqm1qzkj9ko3_500.gif"></center>');
+	 },
+
+	 blake: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGuYgIFFeLnUenbC7MFn08RYMFJl-RNqRJA31tnnaollyne1XRzOBea4"></center>');
+	 },
+
+	 weiss: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://images6.fanpop.com/image/photos/34700000/Weiss-rwby-34714048-400-225.gif"></center>');
+	 },
+
+	 owch: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://25.media.tumblr.com/c2a1162d3986dffa65e437641284edc6/tumblr_muli1oVcqm1qzkj9ko1_500.gif"></center>');
+	 },
+
+	 treessuck: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://media.tumblr.com/32710e9bfca046da6e4514c6fcc82b23/tumblr_inline_ms1l71n1ii1qz4rgp.gif"></center>');
+	 },
+
+	 throw: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://31.media.tumblr.com/0b63717080612b951cd76bb8fbe222f5/tumblr_muli1oVcqm1qzkj9ko4_500.gif"></center>');
+	 },
+
+	 lovrina2: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://stream1.gifsoup.com/view7/3834891/lovrina-o.gif"></center>');
+	 },
+
+	 spoilerwarning: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://static3.wikia.nocookie.net/__cb20131031233004/rwby/images/b/b0/The_Stray_00033.png"></center>');
+	 },
+
+	 iburn: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i.minus.com/idK6YE40trRue.gif"></center>');
+	 },
+
+	 comeatme: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://31.media.tumblr.com/tumblr_lrzvrmMDMl1r1l46do1_500.gif"></center>');
+	 },
+
+	 wukong: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i145.photobucket.com/albums/r239/FM_Nocturna/bth_rwby-sun_zps1b425c62.gif"></center>');
+	 },
+
+	 adam: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i947.photobucket.com/albums/ad312/Silver_Eyed_Crow/IFzXYIsUq9YrF_zps1e81904b.gif?t=1402450287"></center>');
+	 },
+
+	 ama: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://images4.fanpop.com/image/photos/16900000/Okami-Animated-Gif-s-okami-amaterasu-16966304-320-225.gif"></center>');
+	 },
+
+	 kissandmakeup: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://static.tumblr.com/163f6e361ace5ed3ab961a6700abbd15/auelhnj/nf4mrcg1x/tumblr_static_kiss.gif"></center>');
+	 },
+
+	 dance: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i.imgur.com/ujkYR.gif"></center>');
+	 },
+
+	 legsfunny: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i.imgur.com/9g2b8M1.gif"></center>');
+	 },
+
+	 lookup: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://img4.wikia.nocookie.net/__cb20130908073953/rwby/images/0/0d/BPU7yW5.gif"></center>');
+	 },
+
+	 demon: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://img837.imageshack.us/img837/3570/blaze.gif"></center>');
+	 },
+
+	 lyn: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://lparchive.org/Fire-Emblem-Blazing-Sword/Update%2041/72-solkatti.gif"></center>');
+	 },
+
+	 lucina: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://24.media.tumblr.com/e96224e07e1d1c28a9c6d2f1846e2153/tumblr_mqtaxjird31r1fq7do2_400.gif"></center>');
+	 },
+
+	 birkal: function(target, room, user) {
+	 	this.sendReply("It's not funny anymore.");
+	 },
+
+         yay: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://stream1.gifsoup.com/view8/4716472/pokespe-boys-o.gif"></center>');
+	 },
+
+         pleiades: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://24.media.tumblr.com/d4bfc0ce9509a2c2a2695cefdfe7816d/tumblr_mg828id4kQ1s1sk4do1_500.gif"></center>');
+	 },
+
+    	tsunbox: function(target, room, user) {
+        if (!this.canBroadcast()) return;
+        this.sendReply('|raw|<img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="left"><img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="right">' +
+                '<center><h1><font color="blue"><u>Tsunbios\'s Music Box</u></color></h1></center>' +
+                '<center><b><a href="https://www.youtube.com/watch?v=VFwXmz1KGoQ">Real american</a><br>' +
+                 '<center><b><a href="https://www.youtube.com/watch?v=guG9cVs3ms4">Real american</a><br>' +
+                 '<center><b><a href="https://www.youtube.com/watch?v=guG9cVs3ms4">Real american</a><br>' +
+                '<center><b><a href="https://www.youtube.com/watch?v=guG9cVs3ms4">Real american</a><br>' +                '<img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="left"><img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="right"><br><br>');
+    	},
+    		     	
+    	rubybox: function(target, room, user) {
+        if (!this.canBroadcast()) return;
+        this.sendReply('|raw|<img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="left"><img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="right">' +
+                '<center><h1><font color="blue"><u>Ruby\'s Music Box</u></color></h1></center>' +
+                '<center><b><a href="https://www.youtube.com/watch?v=_XoOt-5pW_Q">I burn</a><br>' +
+                 '<center><b><a href="https://www.youtube.com/watch?v=2ikK5docONc">Red like Roses</a><br>' +
+                 '<center><b><a href="https://www.youtube.com/watch?v=xmOZL_0rj70">I May Fall</a><br>' +
+                '<center><b><a href="https://www.youtube.com/watch?v=M7DhyZ7h1yc">Unbeatable</a><br>' +
+                '<center><b><a href="https://www.youtube.com/watch?v=kKzWqZAzBOw">This Dream</a><br>' + 		  '<img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="left"><img src="http://i.imgur.com/Df5hZ9S.png" width="30" height="30" align="right"><br><br>');
+    	},
+
+	 tpp: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://img.gawkerassets.com/img/19gp7ykf66cajpng/original.png"></center>');
+	 },
+
+	 meow: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://img0.joyreactor.cc/pics/post/anime-%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-OreGairu-anime-%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-1126044.gif"></center>');
+	 },
+
+	 yaoifan: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://25.media.tumblr.com/261f85d7df9bacf40ba3cbec8f0cd5bf/tumblr_modirvGjsx1qa94xto1_r1_500.gif"></center>');
+	 },
+
+	 bye: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://www8.0zz0.com/2013/06/23/23/117060062.gif"></center>');
+	 },
+
+	 helix: function(target, room, user) {
+	 	if (!this.canBroadcast()) return;
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://img.gawkerassets.com/img/19gp7ykf7cnhrgif/ku-xlarge.gif"></center>');
+	 },
+
 	potd: function (target, room, user) {
 		if (!this.can('potd')) return false;
 
@@ -1602,5 +1808,494 @@ var commands = exports.commands = {
 			this.sendReply("The command '" + target + "' was not found. Try /help for general help");
 		}
 	},
+           //TRAINER CARDS - Brittle, please try and keep them neat :) hi cosy
+	ruby: 'Kari Ruby',
+	ruby: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Elite Four:<center><img src="http://i.imgur.com/b8BkoNg.jpg"></center><br \>' +
+			'Title:<center> The Gentle Blaze</center><br \>' +
+			'Ace:<center> Charizard</center><br \>' +
+			'Quote:<center> Now sit back and watch me burn!</center><br \>' +
+			'<center><img src="http://fc07.deviantart.net/fs71/f/2013/277/a/b/mega_charizard_y_sprite_by_flamejow-d6m3y7l.png"></center>')
+	},
 
+	lily: 'Lily',
+	lily: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Elite Four: Lily Rainbow<br \>' +
+			'Ace: Nidoqueen<br \>' +
+			'Quote: You better find a cure or I will take over! .<br \>' +
+			'<img src="http://media.pldh.net/pokemon/gen5/blackwhite_animated_front/031.gif">')
+	},
+
+	xathoz: 'xathoz',
+	xathoz: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Frontier: Xathoz<br \>' +
+			'Ace: Gliscor<br \>' +
+			'Quote: "Pride is not the opposite of shame, but its source. The only antidote to shame is true humility." -Iroh .<br \>' +
+			'<img src="http://static2.wikia.nocookie.net/__cb20110817211941/pokemon/images/7/7f/Gliscor.gif">')
+	},
+
+	red: 'red',
+	red: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Palace Mavin: Red<br \>' +
+			'Ace: Darmanitan and Duskinoir<br \>' +
+			'Quote: Either I just rek you or we screw eachother passionatly and yaoi style .<br \>' +
+			'<img src="http://img.pokemondb.net/sprites/black-white/anim/normal/darmanitan-standard-mode.gif">')
+	},        
+
+	blair: 'Blair',
+	blair: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Gym Leader: Blair<br \>' +
+			'Ace: Togekiss<br \>' +
+			'Quote: Let me just Blair some music .<br \>' +
+			'<img src="http://img.pokemondb.net/sprites/black-white/anim/normal/togekiss.gif">')
+	},        
+
+	fluffy: 'Fluffy',
+	fluffy: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Dome Ace: Fluffy<br \>' +
+			'Ace: Aegislash<br \>' +
+			'Quote: Learning comes from losing .<br \>' +
+			'<img src="http://img.pokemondb.net/sprites/x-y/normal/aegislash-blade.png">')
+	},        
+
+	lynn: 'Lynn',
+	lyzz: 'Lynn',
+	lynn: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Champion Lyn Keikai Hikaru<br \>' +
+			'Title: The Eternally Cool yet Elegant<br \>' +
+			'Ace: Gardevoir and Gallade<br \>' +
+			'Quote: Mind, Skill, Tranquility .<br \>' +
+			'<img src="http://img.pokemondb.net/sprites/black-white/anim/normal/gardevoir.gif"><img src="http://img.pokemondb.net/sprites/black-white/anim/normal/gallade.gif">')
+	},
+
+	cosy: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReply('|raw|<center><img src="http://i.imgur.com/yMNJ2xK.png"></center>');
+	},
+
+	aaron: 'Aaron',
+	aaron: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Gym Leader: Aaron<br \>' +
+			'Ace: Mega Aggron<br \>' +
+			'Quote: Rock Solid Through The Core.<br \>' +
+			'<img src="http://i305.photobucket.com/albums/nn232/XandZero2/MEGAGGRON_zpsa46c3722.png">')
+	},
+
+	raven: 'Raven',
+	raven: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Gym Leader: Raven<br \>' +
+			'Ace: Toxicroak <br \>' +
+			'Quote: Its never truly over until one loses.<br \>' +
+			'<img src="http://img.pokemondb.net/sprites/black-white/anim/normal/toxicroak.gif">')
+	},
+
+	ace: 'ace',
+	ace: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('frontier: Ace<br \>' +
+			'Ace: Gengar <br \>' +
+			'Quote: Integrity first, Service before self, Excellence in all we do.<br \>' +
+			'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTwPoMdpfT1b8WwrY24qFWXAV5LoTgObFvTKcJiYD84PUhP4z">')
+	},
+
+	kolotos: 'kolotos',
+	kolotos: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Elite Four: Kolotos<br \>' +
+			'Ace: Electivire<br \>' +
+			'Quote: Feel the thunder! .<br \>' +
+			'<img src="http://img.pokemondb.net/sprites/black-white/anim/normal/electivire.gif">')
+	},
+
+    
+   	rubyr : 'ruby rose', 
+   	rubyr: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="90" src="http://img3.wikia.nocookie.net/__cb20130816174802/rwby/images/0/00/RubyGIF1.gif">' +
+        		'<img src="http://i.imgur.com/QpvpXsn.gif">' +
+        		'<img src="http://25.media.tumblr.com/78aa67b7687f1c0b0a59251ab8f3d937/tumblr_mv5rnwZDrw1r1iy9po3_500.gif" height="100"><br />' +
+        		'<b>Ace: </b>Charizard<br />' +
+        		'<b>Catchphrase: </b>I dont need someone to help me grow up I drink milk.</center>');
+    },
+        
+   	nozomu : 'nozomu', 
+   	nozomu: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="90" src="http://hardcoreblader.files.wordpress.com/2008/04/vlcsnap-00148.jpg">' +
+        		'<img src="http://oi62.tinypic.com/24mz0vb.jpg">' +
+        		'<img src="http://oi57.tinypic.com/9sgmxs.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Raikou<br />' +
+        		'<b>Catchphrase: </b>I smell something obscene.</center>');
+    },
+    	
+    
+   	serena : 'serena Hikaru', 
+   	serena: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="https://p.gr-assets.com/540x540/fit/hostedimages/1379773145/314994.jpg">' +
+        		'<img src=http://i1365.photobucket.com/albums/r752/LynnHikaru/serenatext_zps50a3374a.png" height="100">' +
+        		'<img src="http://i1365.photobucket.com/albums/r752/LynnHikaru/Gg3_zps4f62973b.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Gardevoir<br />' +
+        		'<b>Catchphrase: </b>Maybe my fairy tale has a different ending than I dreamed it would. But thats OK.</center>');
+    },
+    
+    serenaw : 'Serena Weishaar', 
+   	serenaw: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://cache.desktopnexus.com/thumbnails/183993-bigthumbnail.jpg">' +
+        		'<img src=http://i1365.photobucket.com/albums/r752/LynnHikaru/serenaw2_zpsa2fd85e7.png" height="100">' +
+        		'<img src="http://i.imgur.com/zf1faS4.gif" height="100"><br />' +
+        		'<b>Ace: </b>Gardevoir, Azumarill and Granbull<br />' +
+        		'<b>Catchphrase: </b>Maybe my fairy tale has a different ending than I dreamed it would. But thats OK.</center>');
+    },
+        	
+    
+   	auburn : 'auburn', 
+   	auburn: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc03.deviantart.net/fs23/f/2007/324/4/d/Stitch_as_a_Sableye_by_Alondra_chui.jpg">' +
+        		'<img src="http://i.imgur.com/nCiO1HM.png" height="100">' +
+        		'<img src="http://fc06.deviantart.net/fs71/f/2013/365/b/a/vivillon_demotivatior_by_crvemaster-d707mq0.jpg" height="100"><br />' +
+        		'<b>Ace: </b> Vivillon<br />' +
+        		'<b>Catchphrase: </b>Assclapped!.</center>');
+    },
+        
+	angel : 'angel', 
+   	angel: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://www.bioshale.com/wp-content/uploads/2013/09/angel-beats-kanade-h1n-net.jpg">' +
+        		'<img src="http://i.imgur.com/3n6pU4v.gif" height="100">' +
+        		'<img src="http://img3.wikia.nocookie.net/__cb20110117095721/angelbeats/images/3/3c/Angel-Beats-02-4_376.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Porygon-Z<br />' +
+        		'<b>Catchphrase: </b>I want to thank you for my heart.</center>');
+    },
+            	
+    
+   	snails : 'snails', 
+   	snails: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc09.deviantart.net/fs41/f/2009/013/8/5/Hungry_Quagsire_by_fallenintoshadows.png">' +
+        		'<img src="http://i.imgur.com/xWtX9R7.gif" height="100">' +
+        		'<img src="http://cdn.bulbagarden.net/upload/f/fe/378Regice.png" height="100"><br />' +
+        		'<b>Ace: </b>Regice<br />' +
+        		'<b>Catchphrase: </b>In the frozen North, no flame can be lit.</center>');
+    },
+        
+   	emily : 'emily', 
+   	emily: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://love.wallpaperklix.com/wp-content/uploads/2014/01/anime_girl_with_headphones_render-300x274.png">' +
+        		'<img src="http://oi58.tinypic.com/15hjtcy.jpg" height="100">' +
+        		'<img src="http://www.wallpaperhi.com/thumbnails/detail/20120827/blue%20eyes%20ribbons%20pink%20hair%20blush%20kasukabe%20akira%20anime%20girls%20sakura%20sakura%20sakura%20nanako%20scans%2018_www.wallpaperhi.com_26.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Weavile<br />' +
+        		'<b>Catchphrase: </b>The cute ones my Blair which one is the cute one? Ask again after I freeze you.</center>');
+    },
+    
+    serenaxsnails : 'serenaxsnails', 
+   	serenaxsnails: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://baratijasblog.com/wp-content/uploads/2009/06/spice.jpg">' +
+        		'<img src="http://i1365.photobucket.com/albums/r752/LynnHikaru/sxs3_zps63332834.png" height="100">' +
+        		'<img src="http://www.takuchat.com/wp-content/uploads/2013/04/131813-untitled_1_large.png" height="100"><br />' +
+        		'<b>Ace: </b>Quagsire and Milotic<br />' +
+        		'<b>Catchphrase: </b>You Sir are desperate for me to tease you. I still believe you to be adorable.</center>');
+    },
+    
+    holo : 'holo', 
+   	holo: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0qQ3rU0rC01XSSlClj0GUOVMbvfzjNiprQs_TbbolZMMxBK-wFA">' +
+        		'<img src="http://i1365.photobucket.com/albums/r752/LynnHikaru/holo1_zpsc4b0254d.png">' +
+        		'<img src="http://img1.ak.crunchyroll.com/i/spire3/13a6e9bf109385c6e6391b4fd4cb8bea1340620725_full.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Ludicolo and Milotic<br />' +
+        		'<b>Catchphrase: </b>"Stupid potato!"</center>');
+    },
+        
+   	vale : 'vale',
+   	slyph : 'vale',
+   	vale: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc07.deviantart.net/fs70/f/2010/071/a/8/Scyther_by_Xous54.png">' +
+        		'<img src="http://static1.glowtxt.com/data1/c/e/0/ce0a4c2b5bd3ad25c6579826f89d240e5f7b9fc7da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709a33320cb7fd87eef40a9e6023a7a26bc.png" height="100">' +
+        		'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvp4U2ImcI4VEcpJqpPq5PWwMKGLET8RkYkLL_eETMhQ9Sh7UQQ" height="100"><br />' +
+        		'<b>Ace: </b>Togekiss and Scyther<br />' +
+        		'<b>Catchphrase: </b>The Cracks cant support you forever, theyll crack and when they do the consequences can be unforseen.</center>');
+    },
+            
+   	mitsuru : 'mitsuru',
+   	mitsuru: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://squarefaction.ru/files/user/761/storage/1278367700.jpg">' +
+        		'<img src="http://i.imgur.com/qOqeudE.png" height="100">' +
+        		'<img src="http://i.imgur.com/gFKsyg1.jpg?1" height="100"><br />' +
+        		'<b>Ace: </b>Kabutops<br />' +
+        		'<b>Catchphrase: </b>There are times where we cannot stand without the support of others.</center>');
+    },
+                
+   	reddo : 'reddo',
+   	reddo: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://i.imgur.com/s7T6T8X.png">' +
+        		'<img src="http://i.imgur.com/XJJqNKg.png" height="100">' +
+        		'<img src="http://fc04.deviantart.net/fs70/f/2013/087/6/a/ferrothorn___power_whip_by_ishmam-d5zmcwn.png" height="100"><br />' +
+        		'<b>Ace: </b>Ferrothorn<br />' +
+        		'<b>Catchphrase: </b>"When you fight, you fight with your mind".</center>');
+    },
+                
+        sabo :  'sabo',
+   	sabo: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc07.deviantart.net/fs70/i/2014/101/5/a/hiken_no_sabo_by_renealexa-d7e0pja.jpg">' +
+        		'<img src="http://i.imgur.com/lGR8TUu.png" height="100">' +
+        		'<img src="http://3.bp.blogspot.com/-Fsoi6EY8EWc/UquK586b-VI/AAAAAAAAAD4/pERIvCMc8Yg/s1600/sabo+ace+luffy.pnghttp://i.imgur.com/gFKsyg1.jpg?1" height="100"><br />' +
+        		'<b>Ace: </b>Portgas D. Ace<br />' +
+        		'<b>Catchphrase: </b>One Piece 4Ever.</center>');
+    },
+                    
+        tsunbio :  'tsunbio',
+   	tsunbio: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://www.orgsites.com/va/afp:csf/eagle.jpg">' +
+        		'<img src="http://i.imgur.com/fkwZP76.png" height="100">' +
+        		'<img src="http://1.bp.blogspot.com/-QDtHEJtWPiQ/UDyqlIMjSwI/AAAAAAAAAzQ/JeHD5jfz6CI/s400/Hulk_Hogan.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Freedom<br />' +
+        		'<b>Catchphrase: </b>I am a real american.</center>');
+    },
+                    
+        emi :  'emi',
+   	emi: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://hdimagesinfo.com/wp-content/uploads/2013/10/Girl-Anime-64.jpg">' +
+        		'<img src="http://oi61.tinypic.com/27xe9hv.jpg" height="100">' +
+        		'<img src="http://www.pokedit.com/boards/ckfinder/userfiles/2/images/mega_lucario_by_soulofsiam.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Mega Lucario and Blaziken<br />' +
+        		'<b>Catchphrase: </b>The amount of thought you put into challenging me? My guess is none.</center>');
+    },
+            
+   	anabel : 'anabel',
+   	anabel: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="https://31.media.tumblr.com/ab408b9a11a34beb7556d0deec06082b/tumblr_inline_myqkw7UVSS1qhn05c.jpg">' +
+        		'<img src="http://i.imgur.com/wXBPBlV.png" height="100">' +
+        		'<img src="http://i.imgur.com/gmblw27.gif" height="100"><br />' +
+        		'<b>Ace: </b>Pidgeot<br />' +
+        		'<b>Catchphrase: </b>Predicting isnt needed when you can use your mind.</center>');
+    },
+                
+   	austos : 'austos',
+   	austos: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="https://31.media.tumblr.com/ab408b9a11a34beb7556d0deec06082b/tumblr_inline_myqkw7UVSS1qhn05c.jpg">' +
+        		'<img src="http://209.190.33.194/images/812/812731df1c4658fb3f444026cd73eb0b5b85a43d.png" height="100">' +
+        		'<img src="http://cdn.bulbagarden.net/upload/thumb/6/6d/Black_2_White_2_N.png/200px-Black_2_White_2_N.png" height="100"><br />' +
+        		'<b>Ace: </b>Greninja<br />' +
+        		'<b>Catchphrase: </b>Perfection requires Adaptation.</center>');
+    },
+            
+   	phoenix : 'phoenix',
+   	phoenix: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc03.deviantart.net/fs71/f/2013/259/0/9/talonflame_sprite_by_natsu714-d6mjxdb.png">' +
+        		'<img src="http://i.imgur.com/o1uZXBE.gif" height="100">' +
+        		'<img src="http://31.media.tumblr.com/0acee0675cc7e232cd9a3777f16daf85/tumblr_mqqhioUzLQ1rs0nhyo1_250.gif" height="100"><br />' +
+        		'<b>Ace: </b>Talonflame<br />' +
+        		'<b>Catchphrase: </b>Dah Hax Is Real $_$.</center>');
+    },
+                
+   	levi : 'levi',
+   	levi: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="https://lh5.googleusercontent.com/-4JgQF4DV3E0/Uy4_5Eqe3xI/AAAAAAAAALo/5btSDAfTGSw/w558-h577-no/Sigylph_Pic.png">' +
+        		'<img src="https://lh4.googleusercontent.com/-drhrLrf9K_g/Uy49z2vaNuI/AAAAAAAAALU/S0QJUpyt3Ho/w1043-h489-no/Levi_Name.png" height="100">' +
+        		'<img src="https://lh5.googleusercontent.com/-8aEFS4AwMFE/Uy49yjeO4bI/AAAAAAAAALM/mqACw-2ro-Y/w866-h577-no/Levi_Team.png" height="100"><br />' +
+        		'<b>Ace: </b>Sigilyph<br />' +
+        		'<b>Catchphrase: </b>Savour your loses, for every defeat, every heartbreak, every loss, contains its own lesson on how to improve your performance the next time.</center>');
+    },
+                
+   	mihawk : 'mihawk',
+   	mihawk: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://th09.deviantart.net/fs70/200H/f/2011/203/b/2/mihawk_by_swiftcutz-d41amyy.jpg">' +
+        		'<img src="http://i.imgur.com/3HvC1qe.png" height="100">' +
+        		'<img src="http://th03.deviantart.net/fs71/200H/f/2011/221/f/e/dracule_mihawk_by_dianaluc-d46165h.png" height="100"><br />' +
+        		'<b>Ace: </b>Garchomp<br />' +
+        		'<b>Catchphrase: </b>In all things there is balance, for balance is power. But in power alone there is no balance.</center>');
+    },
+                    
+   	ami : 'ami',
+   	ami: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://fc00.deviantart.net/fs71/f/2013/016/6/a/human_form_amaterasu___okami_render_by_pastelkuro-d5roy7x.png">' +
+        		'<img src="http://i.imgur.com/2P9GnPS.gif" height="100">' +
+        		'<img src="http://fc01.deviantart.net/fs71/f/2012/307/6/e/okami_amaterasu_animation_by_porkymeansbusiness-d5jvjt8.gif" height="100"><br />' +
+        		'<b>Ace: </b>Metagross and Cresslia<br />' +
+        		'<b>Catchphrase: </b>While the moonlight is on my side it is only because it cannot exist with out my warming light.</center>');
+    },
+                        
+   	norar : 'norar',
+   	norar: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://i.imgur.com/9g2b8M1.gif">' +
+        		'<img src="http://i.imgur.com/h1gnB5t.png" height="100">' +
+        		'<img src="http://img2.wikia.nocookie.net/__cb20130809103009/rwby/images/2/2d/NoraValkyrieProfilePicture.png" height="100"><br />' +
+        		'<b>Ace: </b>Sylveon<br />' +
+        		'<b>Catchphrase: </b>You may think my fairys are cute sorry but thats my ruby.</center>');
+    },
+                            
+   	lovrina : 'lovrina',
+   	lovrina: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://i203.photobucket.com/albums/aa15/bump69911/Pokemon/Avatars/i_lovrina.gif">' +
+        		'<img src="http://i.imgur.com/g76y0AY.png" height="100">' +
+        		'<img src=http://www.writers-network.com/pictures/spinda.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Spinda<br />' +
+        		'<b>Catchphrase: </b>I like me a win.</center>');
+    },
+    
+    aubbyxcat : 'aubbyxcat',
+      	aubbyxcat: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://1.bp.blogspot.com/-Yi6hEYrdx64/TjGZyonTlRI/AAAAAAAAAH4/YzCoC09f4pM/s1600/anime_cat_boy__s_image-174720.jpg">' +
+        		'<img src=http://i1365.photobucket.com/albums/r752/LynnHikaru/axc_zpsbcab5861.png" height="100">' +
+        		'<img src="http://img4.wikia.nocookie.net/__cb20120928005056/swordartonline/images/8/87/Kirito_Dual_Blades.png" height="100"><br />' +
+        		'<b>Ace: </b>Hawlucha<br />' +
+        		'<b>Catchphrase: </b>"I wanted my Princess Kitty to revive me, not this jester Psiker."</center>');
+    },
+    
+    aluutaxvale : 'aluutaxvale',
+   	aluutaxvale: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img src="http://images5.fanpop.com/image/photos/29800000/FrUk-yaoi-29855631-600-488.jpg" height="120">' +
+        		'<img src="http://i1365.photobucket.com/albums/r752/LynnHikaru/axv_zps2394d724.png" height="100">' +
+        		'<img src=http://ekladata.com/jo7KeBo-S9_qGaAVxplr4QZMe_c.gif" height="100"><br />' +
+        		'<b>Ace: </b>Emolga<br />' +
+        		'<b>Catchphrase: </b>"YOU CHEATED ON ME...WITH A WOMAN!"</center>');
+    },
+                                
+   	haruko : 'haruko',
+   	haruko: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="100" src="http://31.media.tumblr.com/2beffec8c82815d7ce9bced0596bbeb4/tumblr_ms5xy54W4b1s1syfso1_500.gif">' +
+        		'<img src="http://i.imgur.com/kzCkWh2.png" height="50">' +
+        		'<img src="http://24.media.tumblr.com/eae21cecedab8952379a03c023388625/tumblr_mqb3o9scfu1qcrbfzo1_500.gif" height="100"><br />' +
+        		'<b>Ace: </b>Politoed<br />' +
+        		'<b>Catchphrase: </b>"Politoed, together we shall conquer all the girls hearts. Just you wait."</center>');
+    },
+                                
+   	atomsk : 'atomsk',
+   	atomsk: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="100" src="http://31.media.tumblr.com/2beffec8c82815d7ce9bced0596bbeb4/tumblr_ms5xy54W4b1s1syfso1_500.gif">' +
+        		'<img src="http://i.imgur.com/kzCkWh2.png" height="50">' +
+        		'<img src="http://24.media.tumblr.com/eae21cecedab8952379a03c023388625/tumblr_mqb3o9scfu1qcrbfzo1_500.gif" height="100"><br />' +
+        		'<b>Ace: </b>Gardevoir<br />' +
+        		'<b>Catchphrase: </b>"People or pokemon. All life is precious and should be treated equally."</center>');
+    },
+                                
+   	aluuta : 'aluuta',
+   	aluuta: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkXCEnZymvdaDxGZZxjFbx68R9DuCZI2AGKhuvPZBei0deptJO">' +
+        		'<img src="http://static1.glowtxt.com/data1/f/1/5/f15e6e44b4f3450d47c6895d07e9f1fc13539e1cda39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd807098a5937dd664cb359ff50a8a2446f8c29.gif" height="100">' +
+        		'<img src="http://www.drawingnow.com/file/videos/image/how-to-draw-winter-soldier-bucky-from-captain-america-the-winter-soldier.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Gliscor<br />' +
+        		'<b>Catchphrase: </b> </center>');
+    },
+                              
+   	missing1 : 'missing1',
+   	missing1: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://c2.atwiki.asia/livia/2/2014/0213/6536fe95b080435c52b5.jpg">' +
+        		'<img src="http://i.imgur.com/weT5dVU.png" height="100">' +
+        		'<img src="http://www.ycy8.net/wp-content/uploads/2013/09/0117.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Arcanine and Ninetales<br />' +
+        		'<b>Catchphrase: </b>When life gives me lemons i dont make lemonade, I make lemon grenades..</center>');
+    },
+                        
+   	joy : 'joy',
+      	joy: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://s1.hubimg.com/u/8522224_f260.jpg">' +
+        		'<img src=http://i.imgur.com/cVyImcs.png" height="100">' +
+        		'<img src="http://fc06.deviantart.net/fs71/f/2012/258/5/c/nurse_joy_by_dmy_gfx-d5et0ak.jpg" height="100"><br />' +
+        		'<b>Ace: </b>Zangoose<br />' +
+        		'<b>Catchphrase: </b>"I love me a win"</center>');
+    },
+                        
+   	heart : 'heart',
+      	heart: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="120" src="http://icons.iconarchive.com/icons/succodesign/love-is-in-the-web/256/heart-icon.png">' +
+        		'<img src=http://i.imgur.com/Q9NguEO.png" height="100">');
+    },
+                    
+   	hallie : 'hallie',
+      	hallie: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+        	this.sendReplyBox('<center><img height="100" src="http://www.pkparaiso.com/imagenes/xy/sprites/animados/gyarados-mega.gif">' +
+        		'<img src="http://i.imgur.com/vI6Y91f.gif" height="75">' +
+        		'<img src="http://i.imgur.com/nhOPMlk.png" height="100"><br />' +
+        		'<b>Ace: </b>Gyarados<br />' +
+        		'<b>Catchphrase: </b>"I will always flow, water by water"</center>');
+    },
+    
+
+            
+   	rosexbliar : 'rosexblair', 
+   	rosexblair: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+         	this.sendReplyBox('<center><img height="120" src="http://images.wikia.com/rwby/images/2/24/RubyReveal.gif">' +
+          		'<img src="http://i.imgur.com/5PtCLDR.gif" height="100">' +
+          		'<img src="http://img4.wikia.nocookie.net/__cb20130824083005/rwby/images/f/fc/Boop.gif" height="100"><br />' +
+          		'<b>Ace: </b>Charizard and Goodra<br />' +
+          		'<b>Catchphrase: </b>As long as were together thats all that matters.</center>');
+    },
+    
+    valius : 'valius', 
+   	valius: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+         	this.sendReplyBox('<center><img height="120" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJVTGiUxQNgL2UcU9NE5nOMaWzDgbRxt0B9hbQES90UOnXH3nupw">' +
+          		'<img src="http://i.imgur.com/iNkpKN3.gif" height="100">' +
+          		'<img src="http://img1.wikia.nocookie.net/__cb20140311211615/crossoverrp/images/thumb/7/7b/Pokemon_Thunder_trainer_1.jpg/309px-Pokemon_Thunder_trainer_1.jpg" height="100"><br />' +
+          		'<b>Ace: </b>Raikou<br />' +
+          		'<b>Catchphrase: </b>"All it takes is one loose connection to unleash electrical chaos."</center>');
+    },
+    
+    blue : 'blue', 
+   	blue: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+         	this.sendReplyBox('<center><img height="120" src="http://25.media.tumblr.com/fd1d0496402b0bdc8fe57bc5843f58a3/tumblr_mnuca8RwI31qhd8sao1_500.gif">' +
+          		'<img src="http://i.imgur.com/nBA8fhl.gif" height="100">' +
+          		'<img src="http://3.bp.blogspot.com/-ikPcvsi5iYc/Ux3OjIDrYRI/AAAAAAAAB7U/nhxCth-O9xw/s1600/tumblr_mveh1mETn61swxcu7o1_400.gif" height="100"><br />' +
+          		'<b>Ace: </b>Charizard X and Gengar<br />' +
+          		'<b>Catchphrase: </b>"May the best of you..turn to ashes."</center>');
+    },
+    
+    ron : 'ron', 
+   	ron: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+         	this.sendReplyBox('<center><img height="100" src="http://24.media.tumblr.com/tumblr_mbmx44B8t91qczibyo1_500.gif">' +
+          		'<img src="http://i.imgur.com/2jX5oJP.png" height="85">' +
+          		'<img src="http://www.pkparaiso.com/imagenes/xy/sprites/animados/keldeo.gif" height="100"><br />' +
+          		'<b>Ace: </b>Keldeo and Conkeldurr<br />' +
+          		'<b>Catchphrase: </b>"Its Better to Master the Cards youre Holding, than to complain about the ones your opponent was dealt."</center>');
+    },
+    
+    vsserena : 'vsserena', 
+   	vsserena: function(target, room, user) {
+        	if (!this.canBroadcast()) return;
+         	this.sendReplyBox('<center><img height="120" src="http://i1365.photobucket.com/albums/r752/LynnHikaru/vss_zps0a562622.png">' +
+          		'<img src="http://i109.photobucket.com/albums/n50/karatehorse612/Anime/Cinderella-3.jpg" height="180">' +
+          		'<b>vs Serena Theme</b> - <a href="https://www.youtube.com/watch?v=FZZuYtnHqks">Click Here</a><br />'+
+          		'<b>Quote: </b>"Maybe my fairy tale has a different ending than I dreamed it would. But thats ok"</center>');
+    },
 };
