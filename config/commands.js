@@ -2145,7 +2145,7 @@ var commands = exports.commands = {
    	edward: function(target, room, user) {
         	if (!this.canBroadcast()) return;
         	this.sendReplyBox('<center><img height="120" src="http://fc08.deviantart.net/fs70/f/2011/047/8/2/edward_elric___signature_by_link_leob-d39o8rr.gif">' +
-        		'<img src="http://i.imgur.com/FYGa5Ln.png" height="100">' +
+        		'<img src="http://i.imgur.com/FYGa5Ln.png" height="50">' +
         		'<b>Ace: </b>Skarmory<br />' +
         		'<b>Catchphrase: </b> </center>');
     },
