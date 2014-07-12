@@ -1898,13 +1898,20 @@ var commands = exports.commands = {
 			'<img src="http://img.pokemondb.net/sprites/black-white/anim/normal/toxicroak.gif">')
 	},
 
+	gymleaderedward: 'gymleaderedward',
+	gymleaderedward: function(target, room, user) {
+		if (!this.canBroadcast()) return;
+		this.sendReplyBox('Gym Leader: Edward Elric<br \>' +
+			'<img src="https://lh5.googleusercontent.com/-8aEFS4AwMFE/Uy49yjeO4bI/AAAAAAAAALM/mqACw-2ro-Y/w866-h577-no/Levi_Team.png">')
+	},
+
 	ace: 'ace',
 	ace: function(target, room, user) {
 		if (!this.canBroadcast()) return;
 		this.sendReplyBox('frontier: Ace<br \>' +
-			'Ace: Gengar <br \>' +
+			'Ace: Hawlucha<br \>' +
 			'Quote: Integrity first, Service before self, Excellence in all we do.<br \>' +
-			'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTwPoMdpfT1b8WwrY24qFWXAV5LoTgObFvTKcJiYD84PUhP4z">')
+			'<img src="http://th05.deviantart.net/fs71/PRE/i/2013/279/7/9/hawlucha_by_mblock-d6oiyzh.png">')
 	},
 
 	kolotos: 'kolotos',
