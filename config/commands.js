@@ -2152,7 +2152,7 @@ var commands = exports.commands = {
         	if (!this.canBroadcast()) return;
         	this.sendReplyBox('<center><img height="120" src="http://fc08.deviantart.net/fs70/f/2011/047/8/2/edward_elric___signature_by_link_leob-d39o8rr.gif">' +
         		'<img src="http://i.imgur.com/FYGa5Ln.png" height="50">' +
-                        '<img src="http://i947.photobucket.com/albums/ad312/Silver_Eyed_Crow/EdsSteelTeam_zps9b9f610c.png" height="100">' +
+                        '<img src="http://i947.photobucket.com/albums/ad312/Silver_Eyed_Crow/EdsSteelTeam_zps9b9f610c.png" height="120">' +
         		'<b>Ace: </b>Skarmory<br />' +
         		'<b>Catchphrase: </b> </center>');
     },
