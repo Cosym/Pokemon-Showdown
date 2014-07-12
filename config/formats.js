@@ -394,21 +394,6 @@ exports.Formats = [
 		]
 	},
 	{
-		name: "OU Monotype",
-		section: "Other Metagames",
-
-		ruleset: ['OU', 'Same Type Clause'],
-		banlist: ['Talonflame']
-	},
-	{
-		name: "Random Monotype",
-		section: "Monotype",
-		column: 2,
-
-		team: 'randommonotype',
-		ruleset: ['Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
-	},
-	{
 		name: "Tier Shift",
 		section: "Other Metagames",
 
@@ -516,6 +501,21 @@ exports.Formats = [
 		mimicGlitch: true,
 		ruleset: ['Pokemon', 'Team Preview', 'HP Percentage Mod'],
 		banlist: ['Illegal', 'Unreleased']
+	},
+	{
+		name: "OU Monotype",
+		section: "Monotype",
+
+		ruleset: ['OU', 'Same Type Clause'],
+		banlist: ['Talonflame']
+	},
+	{
+		name: "Random Monotype",
+		section: "Monotype",
+		column: 2,
+
+		team: 'randommonotype',
+		ruleset: ['Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
 	},
 
 	// BW2 Singles
