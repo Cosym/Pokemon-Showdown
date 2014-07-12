@@ -401,6 +401,14 @@ exports.Formats = [
 		banlist: ['Talonflame']
 	},
 	{
+		name: "Random Monotype",
+		section: "Monotype",
+		column: 2,
+
+		team: 'randommonotype',
+		ruleset: ['Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
+	},
+	{
 		name: "Tier Shift",
 		section: "Other Metagames",
 
