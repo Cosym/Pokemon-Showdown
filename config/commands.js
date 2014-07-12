@@ -1901,8 +1901,7 @@ var commands = exports.commands = {
 	gymleaderedward: 'gymleaderedward',
 	gymleaderedward: function(target, room, user) {
 		if (!this.canBroadcast()) return;
-		this.sendReplyBox('Gym Leader: Edward Elric<br \>' +
-			'<img src="https://lh5.googleusercontent.com/-8aEFS4AwMFE/Uy49yjeO4bI/AAAAAAAAALM/mqACw-2ro-Y/w866-h577-no/Levi_Team.png">')
+		this.sendReplyBox('<img src="http://i947.photobucket.com/albums/ad312/Silver_Eyed_Crow/EdsSteelTeam_zps9b9f610c.png">')
 	},
 
 	ace: 'ace',
@@ -2153,6 +2152,7 @@ var commands = exports.commands = {
         	if (!this.canBroadcast()) return;
         	this.sendReplyBox('<center><img height="120" src="http://fc08.deviantart.net/fs70/f/2011/047/8/2/edward_elric___signature_by_link_leob-d39o8rr.gif">' +
         		'<img src="http://i.imgur.com/FYGa5Ln.png" height="50">' +
+                        '<img src="http://i947.photobucket.com/albums/ad312/Silver_Eyed_Crow/EdsSteelTeam_zps9b9f610c.png" height="100">' +
         		'<b>Ace: </b>Skarmory<br />' +
         		'<b>Catchphrase: </b> </center>');
     },
