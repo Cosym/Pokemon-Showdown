@@ -509,14 +509,6 @@ exports.Formats = [
 		ruleset: ['OU', 'Same Type Clause'],
 		banlist: ['Talonflame']
 	},
-	{
-		name: "Random Monotype",
-		section: "Monotype",
-		column: 2,
-
-		team: 'randommonotype',
-		ruleset: ['Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
-	},
 
 	// BW2 Singles
 	///////////////////////////////////////////////////////////////////
